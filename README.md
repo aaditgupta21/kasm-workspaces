@@ -1,6 +1,6 @@
 # kasm-workspaces
 
-# Steps
+## Steps
 
 1. Add sudo permissions to container
 2. Install Google Chrome using installer from `src` folder
