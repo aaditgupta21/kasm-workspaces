@@ -8,3 +8,7 @@
 4. Install Anaconda using online installer + adding conda to path
 5. Install jupyter notebook using conda
 6. Install other dev tools using tools bash script
+
+<hr>
+
+Work moved to [Nighthawk Coders DevOps Repo](https://github.com/nighthawkcoders/devOps)
